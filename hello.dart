@@ -30,7 +30,7 @@ String thirdvalue = "greetings";
 
 bool isadult = false;
 
-dynamic somevalue = "10.5,h";
+dynamic somevalue = "10.5,h"; 
 
 //to reassign the variable
 
